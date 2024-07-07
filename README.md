@@ -6,7 +6,7 @@
   - with regression models
   - with transformers and bert
   - with 2 labels(positive, negative) and 3 labels (positive, negative, neutral)
-  - emotin based
+  - emotion based
   - with neural networks
 
 ## 2. chatbot with langchain and llm's
